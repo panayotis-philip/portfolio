@@ -1,6 +1,7 @@
 # PhD Student 
 
 #### University of Illinois Urbana-Champaign
+#### "I am passionate about problem-solving and enjoy applying the knowledge I’ve gained across various fields."
 
 ## Education
 - Ph.D., Industrial Eengineering (Operations Research)	| University of Illinois Urbana-Champaign (_present_)							       		
@@ -31,7 +32,6 @@ Linear Programming, Nonlinear Programming, Game Theory, Stochastic Processes, Pr
 C, C++, Python, Java, JavaFX, SQL, Swift, XML, MatLab, Node.js, Unix, Apache Spark, Hadoop, Microsoft Excel
 
 ## Selected Projects
-
 
 ### SoFiLy: Social Fitness App
 
