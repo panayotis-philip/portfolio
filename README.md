@@ -3,7 +3,7 @@
 #### University of Illinois Urbana-Champaign
 #### "I am passionate about problem-solving and enjoy applying the knowledge I’ve gained across various fields." 
 
-Link to my [CV](https://github.com/panayotis-philip/portfolio/blob/main/assets/CV/CV%20Papavassilopoulos%20(October%202024).pdf)
+[CV](https://github.com/panayotis-philip/portfolio/blob/main/assets/CV/CV%20Papavassilopoulos%20(October%202024).pdf)
 
 ## Education
 - Ph.D., Industrial Eengineering (Operations Research)	| University of Illinois Urbana-Champaign (_present_)							       		
