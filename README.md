@@ -29,12 +29,15 @@ Linear Programming, Nonlinear Programming, Game Theory, Stochastic Processes, Pr
 - Conducted data collection and analysis for Greek Economy's Primary and Secondary sectors, contributing insights to studies and reports  
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### Dynamic Hangman: Book-Inspired Word Challenges
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+Developed an enhanced version of the classic Hangman game in Java, integrating a REST API (WORKS API from BOOKS API) to dynamically source words based on book descriptions from an extensive library. Players can select a book, generating a custom word list for their game. Each turn, players choose letters from a selection, with probabilities dynamically calculated and updated to reflect each player’s progress. Points are awarded based on the rarity of correctly guessed letters, adding a strategic element to the gameplay. The game features an interactive JavaFX interface and includes comprehensive word usage statistics for each book-based dictionary.
+
+[Github](https://github.com/panayotis-philip/Multimedia-Project-NTUA-
+)
+
+![Hangman Image](/assets/img/eeg_band_discovery.jpeg)
 
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
