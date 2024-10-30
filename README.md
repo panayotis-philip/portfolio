@@ -10,13 +10,20 @@
 - B.S. & M.S., Electrical & Computer Engineering | National Technical Univeersity of Athens (_May 2023_)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Teaching Assistant @ University of Illinois Urbana-Champaign (NTUA) (_August 2024 - Present_)**
+- Teaching Assistant for the course IE405 "_Computing for ISE_"
+- Conducted office hours to clarify and expand upon classroom concepts for students
+- Graded exams and homework assignments
+
+**Undergraduate Researcher @ Decision and Support Systems Laboratory (NTUA) (_September 2022 - August 2023 (1 year)_)**
+- Analyzed policies by assessing Sustainable Development Goals with Integrated Assessment Models, used Multiple Criteria Optimisation methods and Algorithms
+
+**Part-time Intern @ Stochasis Management Consultancy S.A. (_January 2022 - December 2022 (1 year)_)**
+- Conducted data collection and analysis for Greek Economy's Primary and Secondary sectors, contributing insights to studies and reports
+
+**Lab Assistant @ Engaged in lab experiments and contributed to the development of educational materials used in student exercises (_March 2021 - June 2021 (4 months)_)**
+- Conducted data collection and analysis for Greek Economy's Primary and Secondary sectors, contributing insights to studies and reports  
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
