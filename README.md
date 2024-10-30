@@ -13,7 +13,7 @@ Optimization, Linear Programming, Nonlinear Programming, Game Theory, Stochastic
 
 ## Work Experience
 
-**Teaching Assistant @ University of Illinois Urbana-Champaign (NTUA) (_August 2024 - Present_)**
+**Teaching Assistant @ University of Illinois Urbana-Champaign (_August 2024 - Present_)**
 - Teaching Assistant for the course IE405 "_Computing for ISE_"
 - Conducted office hours to clarify and expand upon classroom concepts for students
 - Graded exams and homework assignments
