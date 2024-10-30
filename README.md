@@ -9,6 +9,9 @@
 - M.S., Industrial Eengineering (Operations Research)	| University of Illinois Urbana-Champaign (_December 2024_)	 			        		
 - B.S. & M.S., Electrical & Computer Engineering | National Technical Univeersity of Athens (_May 2023_)
 
+## Related Coursework
+Linear Programming, Nonlinear Programming, Game Theory, Stochastic Processes, Probability Theory and Statistics, Linear Algebra, Multiple Criteria Decision Analysis, Analysis of Data, Forecasting Techniques, Algorithms and Complexity, Operating Systems, Neural Networks and Machine Learning, Data Analysis/Database Systems, Web/ Mobile App Development
+
 ## Work Experience
 
 **Teaching Assistant @ University of Illinois Urbana-Champaign (NTUA) (_August 2024 - Present_)**
@@ -40,7 +43,13 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 
 ![Bike Study](/assets/img/bike_study.jpeg)
 
-## Talks & Lectures
+## Voluntary Work
+
+**Volunteer Private Tutor (_September 2018 - May 2021 (2 years, 8 months)_)**
+- Provided one-on-one tutoring students in high-school level mathematics, physics, and informatics
+- Adapted the lessons to individual learning styles, communicated complex concepts in a clear and understandable manner
+
+## Lectures Taken
 - Causality: The new science of an old question - GSP Seminar, Fall 2021
 - Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
 - Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
