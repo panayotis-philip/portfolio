@@ -64,7 +64,8 @@ Implemented the Yahoo! Cloud Serving Benchmark (YCSB) to evaluate the performanc
 
 ### Dynamic Hangman: Book-Inspired Word Challenges
 
-![Hangman Image](/assets/img/hangman_project.png)
+
+<img src="/assets/img/hangman_project.png" alt="Hangman_Image" width="300" height="auto">
 
 Developed an enhanced version of the classic Hangman game in Java, integrating a REST API (WORKS API from BOOKS API) to dynamically source words based on book descriptions from an extensive library. Players can select a book, generating a custom word list for their game. Each turn, players choose letters from a selection, with probabilities dynamically calculated and updated to reflect each player’s progress. Points are awarded based on the rarity of correctly guessed letters, adding a strategic element to the gameplay. The game features an interactive JavaFX interface and includes comprehensive word usage statistics for each book-based dictionary.
 
