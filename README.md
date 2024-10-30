@@ -1,7 +1,7 @@
 # PhD Student 
 
 #### University of Illinois Urbana-Champaign
-#### "I am passionate about problem-solving and enjoy applying the knowledge I’ve gained across various fields."
+#### "I am passionate about problem-solving and enjoy applying the knowledge I’ve gained across various fields." [CV](assets/CV/CV Papavassilopoulos (October 2024).pdf)
 
 ## Education
 - Ph.D., Industrial Eengineering (Operations Research)	| University of Illinois Urbana-Champaign (_present_)							       		
