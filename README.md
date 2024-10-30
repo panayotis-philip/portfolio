@@ -35,7 +35,6 @@ C, C++, Python, Java, JavaFX, SQL, Swift, XML, MatLab, Node.js, Unix, Apache Spa
 
 ### SoFiLy: Social Fitness App
 
-![Sofily logo](/assets/img/sofily_project.png)
 <img src="/assets/img/sofily_project.png" alt="Sofily logo" width="200" height="auto">
 
 I contributed to business research and programming as part of a 4-member team in the national student competition 'CodeBiz,' a challenge combining business acumen, innovation, and programming. Our team won 1st prize with SoFiLy, a social fitness network app that uses computer vision and body-tracking technology to create motion-based games.
