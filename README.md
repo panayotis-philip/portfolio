@@ -76,7 +76,8 @@ Developed an enhanced version of the classic Hangman game in Java, integrating a
 ## Societies and Affiliations
 
 **Member @ Hellenic Students Association of UIUC (_August 2023 - present_)**
-- Shaped policies as a United Nations delegate during MUN competitions to address real-world challenges
+- Contributed to organizing and participating in events designed to connect Greek students and community members in Urbana-Champaign
+- Promoted Greek customs and traditions throughout the year, fostering a shared cultural identity and preserving Greek heritage
 
 **Delegate @ Model United Nations (MUN) NTUA Team (_May 2017_)**
 - Shaped policies as a United Nations delegate during MUN competitions to address real-world challenges
