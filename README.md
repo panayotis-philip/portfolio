@@ -6,9 +6,9 @@
 Find my CV [here](https://github.com/panayotis-philip/portfolio/blob/main/assets/CV/CV%20Papavassilopoulos%20(October%202024).pdf)
 
 ## Education
-- Ph.D., Industrial Eengineering (Operations Research)	| University of Illinois Urbana-Champaign (_present_)							       		
-- M.S., Industrial Eengineering (Operations Research)	| University of Illinois Urbana-Champaign (_December 2024_)	 			        		
-- B.S. & M.S., Electrical & Computer Engineering | National Technical Univeersity of Athens (_May 2023_)
+ Ph.D., Industrial Eengineering (Operations Research)	| University of Illinois Urbana-Champaign (_present_)							       		
+ M.S., Industrial Eengineering (Operations Research)	| University of Illinois Urbana-Champaign (_December 2024_)	 			        		
+ B.S. & M.S., Electrical & Computer Engineering | National Technical Univeersity of Athens (_May 2023_)
 
 ## Related Coursework
 Optimization, Linear Programming, Nonlinear Programming, Game Theory, Stochastic Processes, Probability Theory and Statistics, Linear Algebra, Multiple Criteria Decision Analysis, Analysis of Data, Forecasting Techniques, Algorithms and Complexity, Operating Systems, Neural Networks and Machine Learning, Data Analysis/Database Systems, Web/ Mobile App Development
