@@ -48,8 +48,9 @@ Currently, we are refining our prototypes, although the project is temporarily o
 
 ### Menu’s Cost: The Future of Grocery Shopping
 
-<img src="/assets/img/menu_project.png" alt="Menus_Image" width="200" height="auto">
 ![Menus_Image](/assets/img/menu_project.png)
+<img src="/assets/img/menu_project.png" alt="Menus_Image" width="200" height="auto">
+
 
 This application redefines the grocery shopping experience by optimizing delivery, ordering, and modern supermarket systems. Users can input a specific recipe, build a grocery list, or select preferred brands and products. The app then suggests available options across various supermarkets based on criteria like price per quantity, quality standards, and delivery time. In addition to leveraging data from major supermarkets, the platform aims to include small businesses, offering users access to local options they might otherwise overlook. Conceived in early 2020, this idea aligns with post-pandemic trends favoring convenience, quality, and a more inclusive approach to grocery shopping.
 
@@ -58,18 +59,18 @@ This application redefines the grocery shopping experience by optimizing deliver
 
 ### Riak vs. ArangoDB: Key-Value Store Performance Analysis
 
-
-<img src="/assets/img/db_project.png" alt="db_image" width="200" height="auto">
 ![db_image](/assets/img/db_project.png)
+<img src="/assets/img/db_project.png" alt="db_image" width="200" height="auto">
+
 Implemented the Yahoo! Cloud Serving Benchmark (YCSB) to evaluate the performance of two non-relational database systems, ArangoDB and Riak. The benchmarking focused on key performance metrics, including data loading speed, select query efficiency, range query responsiveness, update query execution, and insert query handling, providing a comprehensive assessment of each database's operational efficiency.
 
 [Github](https://github.com/Varagos/InformationSystems)
 
 ### Dynamic Hangman: Book-Inspired Word Challenges
 
-
-<img src="/assets/img/hangman_project.png" alt="Hangman_Image" width="200" height="auto">
 ![Hangman_Image](/assets/img/hangman_project.png)
+<img src="/assets/img/hangman_project.png" alt="Hangman_Image" width="200" height="auto">
+
 
 Developed an enhanced version of the classic Hangman game in Java, integrating a REST API (WORKS API from BOOKS API) to dynamically source words based on book descriptions from an extensive library. Players can select a book, generating a custom word list for their game. Each turn, players choose letters from a selection, with probabilities dynamically calculated and updated to reflect each player’s progress. Points are awarded based on the rarity of correctly guessed letters, adding a strategic element to the gameplay. The game features an interactive JavaFX interface and includes comprehensive word usage statistics for each book-based dictionary.
 
