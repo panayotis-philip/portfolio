@@ -9,7 +9,7 @@
 - B.S. & M.S., Electrical & Computer Engineering | National Technical Univeersity of Athens (_May 2023_)
 
 ## Related Coursework
-Linear Programming, Nonlinear Programming, Game Theory, Stochastic Processes, Probability Theory and Statistics, Linear Algebra, Multiple Criteria Decision Analysis, Analysis of Data, Forecasting Techniques, Algorithms and Complexity, Operating Systems, Neural Networks and Machine Learning, Data Analysis/Database Systems, Web/ Mobile App Development
+Optimization, Linear Programming, Nonlinear Programming, Game Theory, Stochastic Processes, Probability Theory and Statistics, Linear Algebra, Multiple Criteria Decision Analysis, Analysis of Data, Forecasting Techniques, Algorithms and Complexity, Operating Systems, Neural Networks and Machine Learning, Data Analysis/Database Systems, Web/ Mobile App Development
 
 ## Work Experience
 
