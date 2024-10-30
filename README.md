@@ -36,6 +36,7 @@ C, C++, Python, Java, JavaFX, SQL, Swift, XML, MatLab, Node.js, Unix, Apache Spa
 ### SoFiLy: Social Fitness App
 
 <img src="/assets/img/sofily_project.png" alt="Sofily logo" width="200" height="auto">
+![Sofily_logo](/assets/img/sofily_project.png)
 
 I contributed to business research and programming as part of a 4-member team in the national student competition 'CodeBiz,' a challenge combining business acumen, innovation, and programming. Our team won 1st prize with SoFiLy, a social fitness network app that uses computer vision and body-tracking technology to create motion-based games.
 Building on this success, we established the SoFiLy startup to broaden the app's impact, focusing particularly on physiotherapy. We conducted research on optimal business models, developed methods for training motion-tracking algorithms, and collaborated with physiotherapists to integrate real therapeutic exercises into our app. Our aim is to support elderly users and those with health conditions or impairments by offering accessible, guided exercises.
@@ -48,6 +49,7 @@ Currently, we are refining our prototypes, although the project is temporarily o
 ### Menu’s Cost: The Future of Grocery Shopping
 
 <img src="/assets/img/menu_project.png" alt="Menus_Image" width="200" height="auto">
+![Menus_Image](/assets/img/menu_project.png)
 
 This application redefines the grocery shopping experience by optimizing delivery, ordering, and modern supermarket systems. Users can input a specific recipe, build a grocery list, or select preferred brands and products. The app then suggests available options across various supermarkets based on criteria like price per quantity, quality standards, and delivery time. In addition to leveraging data from major supermarkets, the platform aims to include small businesses, offering users access to local options they might otherwise overlook. Conceived in early 2020, this idea aligns with post-pandemic trends favoring convenience, quality, and a more inclusive approach to grocery shopping.
 
@@ -58,7 +60,7 @@ This application redefines the grocery shopping experience by optimizing deliver
 
 
 <img src="/assets/img/db_project.png" alt="db_image" width="200" height="auto">
-
+![db_image](/assets/img/db_project.png)
 Implemented the Yahoo! Cloud Serving Benchmark (YCSB) to evaluate the performance of two non-relational database systems, ArangoDB and Riak. The benchmarking focused on key performance metrics, including data loading speed, select query efficiency, range query responsiveness, update query execution, and insert query handling, providing a comprehensive assessment of each database's operational efficiency.
 
 [Github](https://github.com/Varagos/InformationSystems)
@@ -67,7 +69,7 @@ Implemented the Yahoo! Cloud Serving Benchmark (YCSB) to evaluate the performanc
 
 
 <img src="/assets/img/hangman_project.png" alt="Hangman_Image" width="200" height="auto">
-![Hangman_Image](Hangman_Image)
+![Hangman_Image](/assets/img/hangman_project.png)
 
 Developed an enhanced version of the classic Hangman game in Java, integrating a REST API (WORKS API from BOOKS API) to dynamically source words based on book descriptions from an extensive library. Players can select a book, generating a custom word list for their game. Each turn, players choose letters from a selection, with probabilities dynamically calculated and updated to reflect each player’s progress. Points are awarded based on the rarity of correctly guessed letters, adding a strategic element to the gameplay. The game features an interactive JavaFX interface and includes comprehensive word usage statistics for each book-based dictionary.
 
