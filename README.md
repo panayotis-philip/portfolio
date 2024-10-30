@@ -2,8 +2,6 @@
 
 #### University of Illinois Urbana-Champaign
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
-
 ## Education
 - Ph.D., Industrial Eengineering (Operations Research)	| University of Illinois Urbana-Champaign (_present_)							       		
 - M.S., Industrial Eengineering (Operations Research)	| University of Illinois Urbana-Champaign (_December 2024_)	 			        		
