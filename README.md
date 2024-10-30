@@ -5,7 +5,7 @@
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
 ## Education
-- Ph.D., Industrial Eengineering (Operations Research)	| University of Illinois Urbana-Champaign (_currently_)							       		
+- Ph.D., Industrial Eengineering (Operations Research)	| University of Illinois Urbana-Champaign (_present_)							       		
 - M.S., Industrial Eengineering (Operations Research)	| University of Illinois Urbana-Champaign (_December 2024_)	 			        		
 - B.S. & M.S., Electrical & Computer Engineering | National Technical Univeersity of Athens (_May 2023_)
 
@@ -25,26 +25,61 @@ Linear Programming, Nonlinear Programming, Game Theory, Stochastic Processes, Pr
 **Part-time Intern @ Stochasis Management Consultancy S.A. (_January 2022 - December 2022 (1 year)_)**
 - Conducted data collection and analysis for Greek Economy's Primary and Secondary sectors, contributing insights to studies and reports
 
-**Lab Assistant @ Engaged in lab experiments and contributed to the development of educational materials used in student exercises (_March 2021 - June 2021 (4 months)_)**
-- Conducted data collection and analysis for Greek Economy's Primary and Secondary sectors, contributing insights to studies and reports  
+**Lab Assistant @ Control Systems and Robotics Laboratory (NTUA) (_March 2021 - June 2021 (4 months)_)**
+- Engaged in lab experiments and contributed to the development of educational materials used in student exercises
 
-## Projects
+## Selected Projects
+
+
+### SoFiLy: Social Fitness App
+
+![Sofily logo](/assets/img/sofily_project.png)
+
+I contributed to business research and programming as part of a 4-member team in the national student competition 'CodeBiz,' a challenge combining business acumen, innovation, and programming. Our team won 1st prize with SoFiLy, a social fitness network app that uses computer vision and body-tracking technology to create motion-based games.
+Building on this success, we established the SoFiLy startup to broaden the app's impact, focusing particularly on physiotherapy. We conducted research on optimal business models, developed methods for training motion-tracking algorithms, and collaborated with physiotherapists to integrate real therapeutic exercises into our app. Our aim is to support elderly users and those with health conditions or impairments by offering accessible, guided exercises.
+Currently, we are refining our prototypes, although the project is temporarily on hold due to academic and professional commitments.
+
+[Demo](https://github.com/panayotis-philip/SoFiLyDemoVideo/tree/main)
+
+[Pitch of the idea/Competition Win](https://www.facebook.com/watch/live/?ref=watch_permalink&v=297036458685305&t=7490)
+
+
+
+
+
+
+### Menu’s Cost: The Future of Grocery Shopping
+
+![Menus_Image](/assets/img/menu_project.png)
+
+This application redefines the grocery shopping experience by optimizing delivery, ordering, and modern supermarket systems. Users can input a specific recipe, build a grocery list, or select preferred brands and products. The app then suggests available options across various supermarkets based on criteria like price per quantity, quality standards, and delivery time. In addition to leveraging data from major supermarkets, the platform aims to include small businesses, offering users access to local options they might otherwise overlook. Conceived in early 2020, this idea aligns with post-pandemic trends favoring convenience, quality, and a more inclusive approach to grocery shopping.
+
+
+[Github](https://github.com/panayotis-philip/MenusCostProject2/tree/master)
+
+### Riak vs. ArangoDB: Key-Value Store Performance Analysis
+
+![db_image](/assets/img/db_project.png)
+
+Implemented the Yahoo! Cloud Serving Benchmark (YCSB) to evaluate the performance of two non-relational database systems, ArangoDB and Riak. The benchmarking focused on key performance metrics, including data loading speed, select query efficiency, range query responsiveness, update query execution, and insert query handling, providing a comprehensive assessment of each database's operational efficiency.
+
+[Github](https://github.com/Varagos/InformationSystems)
+
 ### Dynamic Hangman: Book-Inspired Word Challenges
-
 
 Developed an enhanced version of the classic Hangman game in Java, integrating a REST API (WORKS API from BOOKS API) to dynamically source words based on book descriptions from an extensive library. Players can select a book, generating a custom word list for their game. Each turn, players choose letters from a selection, with probabilities dynamically calculated and updated to reflect each player’s progress. Points are awarded based on the rarity of correctly guessed letters, adding a strategic element to the gameplay. The game features an interactive JavaFX interface and includes comprehensive word usage statistics for each book-based dictionary.
 
-[Github](https://github.com/panayotis-philip/Multimedia-Project-NTUA-
-)
+![Hangman Image](/assets/img/hangman_project.png)
 
-![Hangman Image](/assets/img/eeg_band_discovery.jpeg)
+[Github](https://github.com/panayotis-philip/Multimedia-Project-NTUA-)
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+## Societies and Affiliations
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+**Member @ Hellenic Students Association of UIUC (_August 2023 - present_)**
+- Shaped policies as a United Nations delegate during MUN competitions to address real-world challenges
 
-![Bike Study](/assets/img/bike_study.jpeg)
+**Delegate @ Model United Nations (MUN) NTUA Team (_May 2017_)**
+- Shaped policies as a United Nations delegate during MUN competitions to address real-world challenges
 
 ## Voluntary Work
 
