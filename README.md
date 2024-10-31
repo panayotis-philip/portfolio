@@ -7,7 +7,6 @@ Find my CV [here](https://github.com/panayotis-philip/portfolio/blob/main/assets
 
 ## Education
 - Ph.D., Industrial Eengineering (Operations Research)	| University of Illinois Urbana-Champaign (_Present_)
-- M.S., Industrial Eengineering (Operations Research)	| University of Illinois Urbana-Champaign (_December 2024_)
 - B.S. & M.S., Electrical & Computer Engineering | National Technical Univeersity of Athens (_May 2023_)
 
 ## Related Coursework
