@@ -1,4 +1,4 @@
-# PhD Student 
+# Student 
 
 #### University of Illinois Urbana-Champaign
 #### "I am passionate about problem-solving and enjoy applying the knowledge I’ve gained across various fields." 
