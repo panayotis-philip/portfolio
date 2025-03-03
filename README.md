@@ -6,7 +6,7 @@
 Find my CV [here](https://github.com/panayotis-philip/portfolio/blob/main/assets/CV/CV%20Papavassilopoulos%20(October%202024).pdf)
 
 ## Education
-- M.S., Industrial Eengineering (Operations Research)	| University of Illinois Urbana-Champaign (_Present_)
+- PhD., Industrial Eengineering (Operations Research)	| University of Illinois Urbana-Champaign (_Present_)
 - B.S. & M.S., Electrical & Computer Engineering | National Technical Univeersity of Athens (_May 2023_)
 
 ## Related Coursework
